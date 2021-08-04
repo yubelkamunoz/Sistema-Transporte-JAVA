@@ -1,0 +1,3 @@
+# Sistema-Transporte-JAVA
+Proyecto personal para sistema de transporte desarrollado en Java, aprendiendo diseño de interfaces y conexión a BD
+Estado del proyecto 70% terminado ...
